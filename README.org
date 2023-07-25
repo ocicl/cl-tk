@@ -1,0 +1,10 @@
+* cl-tk
+
+Shallow Tcl/Tk bindings for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/marijnh/cl-tk.git   |
+| commit  | c9e2570  |
+| systems | cl-tk |
+|---------+-------------------------------------------|
+
